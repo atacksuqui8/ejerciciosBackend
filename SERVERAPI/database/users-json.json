@@ -1,0 +1,14 @@
+[
+  {
+    "userId": "1",
+    "name": "Jose",
+    "passwordHash": "abc123",
+    "email": "josemadrid888@gmail.com"
+  },
+  {
+    "userName": "pepe",
+    "passwordHash": "$2a$04$/ric/26RiQxeIVipSTtx0.TH/vhpCGH/99SPHAXuVfawY8fXBC8G.",
+    "email": "josemadrid8883@gmail.com",
+    "userId": 2
+  }
+]
